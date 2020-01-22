@@ -1,0 +1,15 @@
+.topnav{
+background-color:#ff1a1a;
+color:#00ffff;
+padding:30px;
+}
+
+.link{float:right;  
+      width:80%;
+    text-align:right;}
+
+      .brand{float:left; width:20%; font-weight: 700;}
+
+      .topnav a{margin:20px; color: #000000;    }
+
+

@@ -1,0 +1,4 @@
+.text{ background-color: #fff; margin:10px 5px; padding:10px;}
+.heading{color:rgb(62, 24, 131); font-size: 18px; padding:10px;}
+.text p{color: green; font-size: 14px; line-height: 20px; padding: 10px; margin-bottom: 16px;}
+.btn-red{background-color: rgb(204, 20, 30); color:yellowgreen; font-size: 15px; border-radius: 30px; float:right; padding: 5px; text-decoration: none;}
